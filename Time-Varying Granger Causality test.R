@@ -7,7 +7,7 @@ library(reshape2)
 library(gganimate)
 
 # Loading Stata dataset
-Model_3 <- read_dta("/Users/saimanishprabhakar/Desktop/Dissertation/Dissertation Data and Estimation/STATA Dissertation files/STATA data files/Model_3 (USEPU Endog & VIX Exog).dta")
+Model_3 <- read_dta("Path to file")
 
 # Checking for missing values and remove them if any
 colSums(is.na(Model_3))
