@@ -4,7 +4,7 @@ library(tseries)
 library(haven)
 
 # Reading the STATA data file
-Model_3 <- read_dta("/Users/saimanishprabhakar/Desktop/Dissertation/Dissertation Data and Estimation/STATA Dissertation files/STATA data files/Model_3 (USEPU Endog & VIX Exog).dta")
+Model_3 <- read_dta("Path to file")
 
 # Examining the structure and first few rows of the data
 str(Model_3)
