@@ -4,6 +4,7 @@
 
 #### For more information regarding the tests themselves or if you would like to read my thesis, kindly reach out to me on:
 
-![Linkedin][https://www.linkedin.com/in/saimanish-prabhakar-3074351a0/]
+[Linkedin](https://www.linkedin.com/in/saimanish-prabhakar-3074351a0/)
+
 
 
